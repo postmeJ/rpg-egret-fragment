@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<e:Skin class="MainUISkin" width="1280" height="960" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*" xmlns:w="http://ns.egret.com/wing">
-	<ns1:ActivityBar id="activityBar" width="120" height="550" x="1151" y="319"/>
-	<ns1:FunctionBar id="functionBar" width="900" height="120" x="291" y="832"/>
-	<e:Button id="mainBtn" label="Button" x="1157" y="836" width="112" height="112" skinName="main.MainBtnSkin"/>
-	<ns1:RoleInfo id="roleInfo" width="600" height="120" x="0" y="0"/>
-</e:Skin>

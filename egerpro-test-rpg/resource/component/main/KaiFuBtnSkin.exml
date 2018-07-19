@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<e:Skin class="main.KaiFuBtnSkin" width="112" height="112" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
-	<e:Image width="100%" height="100%" x="0" y="0" source="activityBtn_png"/>
-	<e:Label id="labelDisplay" text="label" x="21" y="49" textColor="0x2eff00" size="24"/>
-</e:Skin>
