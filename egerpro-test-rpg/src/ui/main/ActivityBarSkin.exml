@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ActivityBarSkin" width="120" height="550" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image width="86" height="508" x="18" y="42" source="shuImg_png"/>
+	<e:Button id="activityBtn" label="Button" x="4" y="128" width="112" height="122" skinName="main.ActivityBtnSkin"/>
+	<e:Button id="KaiFunBtn" label="Button" x="4" y="266" width="112" height="112" skinName="main.KaiFuBtnSkin"/>
+	<e:Button id="infoBtn" label="Button" x="4" y="403" width="112" height="112" skinName="main.InfoBtnSkin"/>
+</e:Skin>

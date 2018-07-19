@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="FunctionBarSkin" width="900" height="120" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image width="872" height="86" x="32" y="21" source="hengImg_png"/>
+	<e:Button id="roleBtn" label="Button" x="34" y="0" skinName="main.RoleBtnSkin" width="112" height="112"/>
+	<e:Button id="backpackBtn" label="Button" x="153" y="0" width="112" height="112" skinName="main.BackpackBtnSkin"/>
+	<e:Button id="qianghuaBtn" label="Button" x="273" y="0" skinName="main.QianghuaBtnSkin"/>
+	<e:Button id="zhaoxianBtn" label="Button" x="392" y="0" width="112" height="112" skinName="main.ZhaoXianBtnSkin"/>
+	<e:Button id="chuangDangBtn" label="Button" x="511" y="0" skinName="main.ChuangDangBtn"/>
+	<e:Button id="shopBtn" label="Button" x="631" y="0" skinName="main.ShopBtnSkin"/>
+	<e:Button id="mapBtn" label="Button" x="750" y="6" width="112" height="112" skinName="main.MapBtnSkin"/>
+</e:Skin>
