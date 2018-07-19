@@ -1,0 +1,7 @@
+.wing/
+.idea/
+.vscode/
+
+libs/
+bin-debug/
+bin-release/
